@@ -1,0 +1,1 @@
+print("Tarek is a dedicated person")
